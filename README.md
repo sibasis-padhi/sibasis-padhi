@@ -10,7 +10,9 @@ Connect with me
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PadhiSibasis)
 <br>
 <br>
+
 Expertise
+
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-brightgreen?logo=java&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="php" src="https://img.shields.io/badge/PHP-lightgrey?logo=php&logoColor=white&style=for-the-badge"/>
