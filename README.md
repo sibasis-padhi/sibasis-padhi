@@ -1,4 +1,5 @@
 Hello World 👋
+
 I am a fullstack software developer from India
 - 🔭 Working on multiple frontend and backend projecs.
 - 🌱 Learning design patterns in depth
