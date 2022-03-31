@@ -22,6 +22,7 @@ Expertise
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="left" alt="expressjs" src="https://img.shields.io/badge/express.js%20-%2343853D.svg?&style=for-the-badge&logo=express.js&logoColor=white"/>
 <img align="left" alt="mongoDB" src="https://img.shields.io/badge/mongoDB%20-%2343853D.svg?&style=for-the-badge&logo=mongoDB&logoColor=white"/>
+<img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%2343853D.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
 <br>
 <br>
